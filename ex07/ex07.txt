@@ -1,0 +1,8 @@
+PS C:\Users\jeevi\OneDrive\Attachments\Desktop\ailab> python ex07.py
+[GaussianNB] Test accuracy: 0.900
+Suitable for continuous features with class-conditional normality.
+
+[MultinomialNB] Test accuracy: 0.500
+Vocabulary: ['buy', 'discount', 'meeting', 'project']
+
+Thus, both Naive Bayes models were trained, evaluated, and executed successfully.
