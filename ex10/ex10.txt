@@ -1,0 +1,5 @@
+NeuroSpeak BCI System
+Model Accuracy: 75.0 %
+New EEG Signal: [0.72 0.74 0.73 0.75 0.71]
+Predicted Brain Activity: WATER
+Patient wants to say: WATER
